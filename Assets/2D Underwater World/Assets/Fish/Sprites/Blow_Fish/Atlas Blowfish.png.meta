@@ -1,0 +1,692 @@
+fileFormatVersion: 2
+guid: bf8271b53d2c7654d8c14d1ce1ed9fa6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: BLOWUP_Blow_Fish_0070
+  - first:
+      213: 21300002
+    second: BLOWUP_Blow_Fish_0060
+  - first:
+      213: 21300004
+    second: BLOWUP_Blow_Fish_0050
+  - first:
+      213: 21300006
+    second: BLOWUP_Blow_Fish_0040
+  - first:
+      213: 21300008
+    second: BLOWUP_Blow_Fish_0030
+  - first:
+      213: 21300010
+    second: BLOWUP_Blow_Fish_0020
+  - first:
+      213: 21300012
+    second: SWIM_Blow_Fish_0050
+  - first:
+      213: 21300014
+    second: IDLE_Blow_Fish_0010
+  - first:
+      213: 21300016
+    second: SWIM_Blow_Fish_0070
+  - first:
+      213: 21300018
+    second: SWIM_Blow_Fish_0060
+  - first:
+      213: 21300020
+    second: SWIM_Blow_Fish_0040
+  - first:
+      213: 21300022
+    second: IDLE_Blow_Fish_0070
+  - first:
+      213: 21300024
+    second: IDLE_Blow_Fish_0000
+  - first:
+      213: 21300026
+    second: BLOWUP_Blow_Fish_0000
+  - first:
+      213: 21300028
+    second: IDLE_Blow_Fish_0020
+  - first:
+      213: 21300030
+    second: IDLE_Blow_Fish_0030
+  - first:
+      213: 21300032
+    second: SWIM_Blow_Fish_0030
+  - first:
+      213: 21300034
+    second: BLOWUP_Blow_Fish_0010
+  - first:
+      213: 21300036
+    second: IDLE_Blow_Fish_0050
+  - first:
+      213: 21300038
+    second: IDLE_Blow_Fish_0040
+  - first:
+      213: 21300040
+    second: SWIM_Blow_Fish_0020
+  - first:
+      213: 21300042
+    second: IDLE_Blow_Fish_0060
+  - first:
+      213: 21300044
+    second: SWIM_Blow_Fish_0000
+  - first:
+      213: 21300046
+    second: SWIM_Blow_Fish_0010
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BLOWUP_Blow_Fish_0070
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 105
+        height: 108
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.5277778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLOWUP_Blow_Fish_0060
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1
+        width: 103
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5339806, y: 0.5283019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLOWUP_Blow_Fish_0050
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 111
+        width: 102
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLOWUP_Blow_Fish_0040
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1
+        width: 95
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5473684, y: 0.5217391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLOWUP_Blow_Fish_0030
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 109
+        width: 90
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.51898736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLOWUP_Blow_Fish_0020
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 213
+        width: 85
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5647059, y: 0.5217391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWIM_Blow_Fish_0050
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1
+        width: 84
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_Blow_Fish_0010
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 95
+        width: 84
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.51666665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWIM_Blow_Fish_0070
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 190
+        width: 83
+        height: 61
+      alignment: 9
+      pivot: {x: 0.56626505, y: 0.47540984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWIM_Blow_Fish_0060
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 284
+        width: 83
+        height: 60
+      alignment: 9
+      pivot: {x: 0.57831323, y: 0.48333332}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWIM_Blow_Fish_0040
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1
+        width: 83
+        height: 60
+      alignment: 9
+      pivot: {x: 0.57831323, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_Blow_Fish_0070
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 157
+        width: 82
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5609756, y: 0.47540984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_Blow_Fish_0000
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 95
+        width: 82
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5609756, y: 0.51666665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLOWUP_Blow_Fish_0000
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 253
+        width: 82
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5609756, y: 0.51666665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_Blow_Fish_0020
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 346
+        width: 82
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5609756, y: 0.52459013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_Blow_Fish_0030
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 220
+        width: 81
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.5084746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWIM_Blow_Fish_0030
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 63
+        width: 81
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.5084746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLOWUP_Blow_Fish_0010
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 157
+        width: 81
+        height: 62
+      alignment: 9
+      pivot: {x: 0.56790125, y: 0.516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_Blow_Fish_0050
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 315
+        width: 81
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_Blow_Fish_0040
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 409
+        width: 81
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWIM_Blow_Fish_0020
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 281
+        width: 80
+        height: 61
+      alignment: 9
+      pivot: {x: 0.55, y: 0.52459013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE_Blow_Fish_0060
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 124
+        width: 80
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5625, y: 0.48333332}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWIM_Blow_Fish_0000
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 221
+        width: 79
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5443038, y: 0.51666665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SWIM_Blow_Fish_0010
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 377
+        width: 79
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5443038, y: 0.51666665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,692 @@
+fileFormatVersion: 2
+guid: 36d0f63bbffc39f43891f9a2100d1290
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Shark_BITE_0030
+  - first:
+      213: 21300002
+    second: Shark_BITE_0020
+  - first:
+      213: 21300004
+    second: Shark_BITE_0010
+  - first:
+      213: 21300006
+    second: Shark_BITE_0000
+  - first:
+      213: 21300008
+    second: Shark_IDLE_0000
+  - first:
+      213: 21300010
+    second: Shark_IDLE_0010
+  - first:
+      213: 21300012
+    second: Shark_IDLE_0020
+  - first:
+      213: 21300014
+    second: Shark_IDLE_0030
+  - first:
+      213: 21300016
+    second: Shark_IDLE_0040
+  - first:
+      213: 21300018
+    second: Shark_BITE_0040
+  - first:
+      213: 21300020
+    second: Shark_IDLE_0070
+  - first:
+      213: 21300022
+    second: Shark_IDLE_0060
+  - first:
+      213: 21300024
+    second: Shark_IDLE_0050
+  - first:
+      213: 21300026
+    second: Shark_SWIM_0040
+  - first:
+      213: 21300028
+    second: Shark_SWIM_0030
+  - first:
+      213: 21300030
+    second: Shark_BITE_0050
+  - first:
+      213: 21300032
+    second: Shark_SWIM_0020
+  - first:
+      213: 21300034
+    second: Shark_SWIM_0050
+  - first:
+      213: 21300036
+    second: Shark_SWIM_0000
+  - first:
+      213: 21300038
+    second: Shark_SWIM_0010
+  - first:
+      213: 21300040
+    second: Shark_BITE_0060
+  - first:
+      213: 21300042
+    second: Shark_BITE_0070
+  - first:
+      213: 21300044
+    second: Shark_SWIM_0060
+  - first:
+      213: 21300046
+    second: Shark_SWIM_0070
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shark_BITE_0030
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 226
+        height: 117
+      alignment: 9
+      pivot: {x: 0.50442475, y: 0.52136755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark_BITE_0020
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1
+        width: 224
+        height: 117
+      alignment: 9
+      pivot: {x: 0.51339287, y: 0.51282054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark_BITE_0010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 120
+        width: 223
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5156951, y: 0.5084746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark_BITE_0000
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1
+        width: 223
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5201794, y: 0.49579832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark_IDLE_0000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 240
+        width: 223
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5201794, y: 0.49579832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark_IDLE_0010
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1
+        width: 222
+        height: 117
+      alignment: 9
+      pivot: {x: 0.518018, y: 0.50427353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark_IDLE_0020
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 120
+        width: 221
+        height: 118
+      alignment: 9
+      pivot: {x: 0.51583713, y: 0.5084746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark_IDLE_0030
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 361
+        width: 220
+        height: 118
+      alignment: 9
+      pivot: {x: 0.51363635, y: 0.4915254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark_IDLE_0040
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 120
+        width: 219
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5068493, y: 0.49565217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark_BITE_0040
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 240
+        width: 219
+        height: 118
+      alignment: 9
+      pivot: {x: 0.51598173, y: 0.5254237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark_IDLE_0070
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 361
+        width: 217
+        height: 113
+      alignment: 9
+      pivot: {x: 0.50230414, y: 0.46902654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark_IDLE_0060
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 481
+        width: 217
+        height: 114
+      alignment: 9
+      pivot: {x: 0.50230414, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark_IDLE_0050
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 122
+        width: 217
+        height: 113
+      alignment: 9
+      pivot: {x: 0.50230414, y: 0.48672566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark_SWIM_0040
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 240
+        width: 217
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5253456, y: 0.49579832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark_SWIM_0030
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 476
+        width: 217
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5299539, y: 0.50427353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark_BITE_0050
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 597
+        width: 213
+        height: 119
+      alignment: 9
+      pivot: {x: 0.52582157, y: 0.5294118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark_SWIM_0020
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 237
+        width: 213
+        height: 119
+      alignment: 9
+      pivot: {x: 0.52582157, y: 0.49579832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark_SWIM_0050
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 595
+        width: 213
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5117371, y: 0.5084746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark_SWIM_0000
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 361
+        width: 208
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5192308, y: 0.49579832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark_SWIM_0010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 718
+        width: 208
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5192308, y: 0.5084746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark_BITE_0060
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 358
+        width: 208
+        height: 121
+      alignment: 9
+      pivot: {x: 0.53365386, y: 0.5289256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark_BITE_0070
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 715
+        width: 207
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5362319, y: 0.5289256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark_SWIM_0060
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 595
+        width: 207
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5024155, y: 0.50427353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark_SWIM_0070
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 481
+        width: 206
+        height: 117
+      alignment: 9
+      pivot: {x: 0.49514562, y: 0.50427353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
